@@ -1,0 +1,33 @@
+h1{
+    font-family: "Poppins", sans-serif;
+  
+  color: var(--primary-color);
+  line-height: 1.2em;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-weight: 200;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    color: #fff;
+    font-family: "Google Sans", Roboto, Arial, Helvetica, sans-serif;
+    font-size: 6vw;
+    font-weight: 400;
+    line-height: 1.625em;
+    position: relative;
+  } 
+
+  .hero-h1 {
+    max-width: 1000px;
+    max-height: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    color: rgb(187,187,187);
+    font-size: 6vw;
+    line-height: 100px;
+  }
+  
